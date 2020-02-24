@@ -36,3 +36,5 @@
 Debug/
 *.vcxproj.user
 *.sln
+*.xcodeproj
+.DS_Store
